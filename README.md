@@ -1,2 +1,2 @@
 # best-repo-ever
-This is a Read Me for SFDC trailhead module
+This is a Read Me for SFDC trailhead module, create conflict
